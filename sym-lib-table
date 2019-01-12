@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mysensors_connectors)(type Legacy)(uri /home/marek/kicad/mysensors_symbols-master/mysensors_connectors.lib)(options "")(descr ""))
+)
